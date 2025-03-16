@@ -1,6 +1,7 @@
 # File organizer
 
-![VS Code Logo](https://code.visualstudio.com/assets/images/code-stable.png)
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="100">
+
 
 An easy to use python script that allows you to organize your files in any directory on your laptop. 
 
