@@ -11,7 +11,7 @@ git clone https://github.com/Tanish719/FIle_organizer.git
 
 Then switch directories into the main folder using ```cd File_organizer/Main_code```. 
 
-After that you can access the main python file.
+After that you can access the main python file organizer.py.
 
 ## How to use
 
@@ -27,12 +27,12 @@ CATEGORIES = {
 }
 ```
 
-You can add or remove categories to your liking. To change the directory in which the scipt organzies your files simply paste your code into the **source_dir** variable.
-```python
-source_dir = "/Users/User_name/Downloads"
+You can paste the path to the directory directiy into the terminal
+```bash
+Enter path: Users/username/path
 ```
-Additionally for those who prefer a user input you can paste this code instead of the one above. 
+Additionally for those who prefer a fixed input you can paste the directory path of the folder you want the files to be organized direclty into the source_dir variable. 
 ```python
-source_dir = input("Enter directory_path: ")
+source_dir = "Paste your path here"
 ```
-Then you can copy the directory path of whatever folder you want from your files app and paste it into the terminal when you run the script. 
+You can now view a summary of what has been moved where in the summary_report.txt file that gets newly created and replaced everytime you run the script to give you an overview of the moved files. Furthermore, there is also a .log file to see the log of the terminal
