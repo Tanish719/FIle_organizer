@@ -1,10 +1,7 @@
 # File organizer
 
 <!-- VS Code -->
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="50">            <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows Logo" width="50">
-
-<!-- macOS -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apple_Computer_Logo_rainbow.svg" alt="Mac Logo" width="50">
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="50">   
 
 
 
